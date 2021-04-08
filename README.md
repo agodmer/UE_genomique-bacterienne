@@ -1,4 +1,4 @@
-# UE_genomique-bacterienne
+# UE_genomique-bacterienne :dna:
 
 ## Programme de la journée
 
