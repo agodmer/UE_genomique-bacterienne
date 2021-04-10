@@ -1,5 +1,10 @@
 # UE genomique bacterienne (Avril 2021)
 ---
+
+<p align="center">
+  <img src="Images/logo.png" width="600" height="80">
+</p>
+
 ## Intervenants 
 - Alexandra Aubry
 - Alexandre Godmer
