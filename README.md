@@ -26,5 +26,7 @@
 6. 16h30-17h : Perspectives et outils d’avenir (métagénomique)		
 7. 17h : A retenir ; diagnostic conventionnel et outils moléculaires	
 
+## [Lien wooclap du cours](www.wooclap.com/BOXPXN)
+- Code Wooclap : **BOXPXN**
 
 
