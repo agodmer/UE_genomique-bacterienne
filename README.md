@@ -17,7 +17,7 @@
 - Outils moléculaires en bactériologie : pour qui ? quand ? comment ?
 
 **Programme :**
-1. 14h-14h30 : Questions, disponibles sur ce [lien](www.wooclap.com/BOXPXN) 	
+1. 14h-14h30 : Questions, disponibles sur www.wooclap.com/BOXPXN 	
 2. 14h30-14h45 : Rappels sur le diagnostic conventionnel en bactériologie 	
 3. 14h45-15h15 : Rappels concernant la génétique bactérienne	
 - *PAUSE*
@@ -26,6 +26,7 @@
 6. 16h30-17h : Perspectives et outils d’avenir (métagénomique)		
 7. 17h : A retenir ; diagnostic conventionnel et outils moléculaires	
 
-## [Lien wooclap du cours](www.wooclap.com/BOXPXN)
+## Lien wooclap pour le cours
+- www.wooclap.com/BOXPXN 
 - Code Wooclap : **BOXPXN**
 
