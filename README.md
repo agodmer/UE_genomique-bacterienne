@@ -18,7 +18,7 @@
 
 ## Programme :
 - **Cliquer sur les liens pdf pour télécharger les cours**
-0. 14h-14h30 : Questions, disponibles sur : www.wooclap.com/BOXPXN [pdf_1_intro](https://agodmer.github.io/UE_genomique-bacterienne/Cours/1_UE_genomique_intro_2021_FINAL.pdf)	
+0. 14h-14h30 : Indroduction et questions wooclap [pdf_1_intro](https://agodmer.github.io/UE_genomique-bacterienne/Cours/1_UE_genomique_intro_2021_FINAL.pdf)	
 1. 14h30-14h45 : Rappels sur le diagnostic conventionnel en bactériologie [pdf_2](https://agodmer.github.io/UE_genomique-bacterienne/Cours/2_UE_genomique_apport_labo_2021_FINAL.pdf)
 2. 14h45-15h15 : Rappels concernant la génétique bactérienne [pdf_3](https://agodmer.github.io/UE_genomique-bacterienne/Cours/3rappelgenetiquebact.pdf)	
 ### *PAUSE*
