@@ -5,7 +5,7 @@
   <img src="Images/logo.png" width="600" height="80">
 </p>
 
-## Intervenants 
+## Intervenants :
 - Alexandra Aubry (alexandra.aubry@sorbonne-universite.fr)
 - Alexandre Godmer (alexandre.godmer@aphp.fr) 
 - Florence Morel
@@ -16,8 +16,8 @@
 - Limites des outils moléculaires en bactériologie
 - Outils moléculaires en bactériologie : pour qui ? quand ? comment ?
 
-**Programme :**
-1. 14h-14h30 : Questions, disponibles sur www.wooclap.com/BOXPXN 	
+## Programme :
+1. 14h-14h30 : Questions, disponibles sur : www.wooclap.com/BOXPXN 	
 2. 14h30-14h45 : Rappels sur le diagnostic conventionnel en bactériologie 	
 3. 14h45-15h15 : Rappels concernant la génétique bactérienne	
 - *PAUSE*
